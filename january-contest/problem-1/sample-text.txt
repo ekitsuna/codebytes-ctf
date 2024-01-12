@@ -1,0 +1,13 @@
+Welcome to CodeBytes, a regional competition founded by the 2023 - 2024 computing clubs of Neuqua Valley High School and Naperville Central High School.
+
+
+Made with the vision of creating an intuitive experience that incorporates the many flavors of computing, CodeBytes prides itself in its unique event structure and variability. We include the traditional competitive problems that national tournaments focus upon, as well as numerous subjects that reference the vast field of computer science (such as data science, web development, botting).
+
+
+The story of CodeBytes returns to the summer of 2023, where the upcoming NVHS Computing Team Captains sought a way to enhance the competitive programming experience. Based in a region where little-to-no communication between adjacent schools' teams existed, the norm in competitions was simply online, independent, national competitions that did not offer much at face value. Thus, the idea of a local recurring competition was born in the hearts of these founders.
+
+
+One day, a meeting was called between NVHS and NCHS to discuss possible relations and to pitch the idea—only to discover that the NCHS Captains had also been in the works of forming their Computer Science League. Struck with the knowledge, the two teams came together to form CodeBytes over the span of several months.
+
+
+Now, we are expanding, all in the hopes of achieving our goal of keeping competitive programming both engaging and relevant.

@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "bit": "cpp",
+        "cstddef": "cpp",
+        "cstdint": "cpp",
+        "cstdlib": "cpp",
+        "type_traits": "cpp",
+        "xtr1common": "cpp"
+    }
+}
