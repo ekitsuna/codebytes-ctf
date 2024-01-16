@@ -1,6 +1,6 @@
 var objPeople = [
     {
-        username : "codebytes",
+        username : "SAKURAJIMA",
         password : "computing"
     },
 ]
@@ -15,5 +15,5 @@ function getInfo() {
             return
         }
     }
-    console.log("wrong")
+    console.log("WEOYVENMQE, 4")
 }
