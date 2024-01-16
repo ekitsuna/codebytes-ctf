@@ -14,7 +14,7 @@ function getInfo() {
 
     for (var n = 0; n < objPeople.length; n++) {
         if (username == objPeople[n].username && password == objPeople[n].password) {
-            window.location.href = 'file:///C:/Users/Arthur/Documents/codebytes/codebytes-ctf/january-contest/problem-3/bulldog.jpg'
+            window.location.href = 'https://drive.google.com/file/d/17esaH8NsgATipUWSAOhJWoZRmGfDc7xB/view?usp=sharing'
             return
         }
     }
